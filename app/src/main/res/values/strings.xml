@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MIPT_4_Praktinis</string>
+    <string name="title_activity_add_note">AddNoteActivity</string>
+    <string name="title_activity_note_details">NoteDetailsActivity</string>
+</resources>
